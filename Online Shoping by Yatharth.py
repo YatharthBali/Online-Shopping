@@ -1,5 +1,6 @@
 import random
 import csv
+# edited by BK
 import os
 oo=open('Online Shoping.csv','a')
 hmm=csv.writer(oo,delimiter=',')
